@@ -37,3 +37,12 @@ button {
   border-radius: 10px;
   display: inline-block;
 }
+
+footer {
+  background: #1b1a17;
+  color: #f0a500;
+  text-align: center;
+  margin-top: 2em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
